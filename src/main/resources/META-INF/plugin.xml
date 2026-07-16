@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.khudim.protobufdbviewer</id>
     <name>Protobuf DB Viewer</name>
-    <vendor email="dmitriykhud@gmail.com">Independent</vendor>
+    <vendor email="dmitriykhud@gmail.com" url="https://github.com/Khudim/protobufdbviewer">Independent</vendor>
 
     <description><![CDATA[
       Decode protobuf-encoded binary values directly from IntelliJ IDEA database result grids.
